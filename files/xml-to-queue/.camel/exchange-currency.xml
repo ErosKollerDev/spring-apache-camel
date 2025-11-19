@@ -1,0 +1,7 @@
+<currency>
+    <id>1000</id>
+    <from>USD</from>
+    <to>BRL</to>
+    <conversionMultiple>70</conversionMultiple>
+    <amount>10</amount>
+</currency>

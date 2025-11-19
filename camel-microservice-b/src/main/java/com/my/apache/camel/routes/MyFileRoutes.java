@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 
 @Slf4j
 @RequiredArgsConstructor
-@Component
+//@Component
 public class MyFileRoutes extends RouteBuilder {
     @Override
     public void configure() throws Exception {
