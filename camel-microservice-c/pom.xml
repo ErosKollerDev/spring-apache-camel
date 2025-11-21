@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.my.apache.camel</groupId>
-	<artifactId>camel-microservice-b</artifactId>
+	<artifactId>camel-microservice-c</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>camel-microservice-b</name>
+	<name>camel-microservice-c</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>

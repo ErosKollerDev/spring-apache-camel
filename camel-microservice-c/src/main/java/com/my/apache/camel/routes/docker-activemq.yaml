@@ -1,0 +1,2 @@
+#docker run -p 61616:61616 -p 61617:61617 -p 8161:8161 webcenter/activemq
+docker run --name='activemq' -p 61616:61616 -p 8161:8161 rmohr/activemq
